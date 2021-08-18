@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.adetunjio.com](www.adetunji.com)
 
-- 💬 Ask me about **react,nodejs**
+- 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Nodejs**
 
 - 📫 How to reach me **adetunjiojekunle@gmail.com**
 
