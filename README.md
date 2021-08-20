@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/adetunji_oj" target="blank"><img src="https://img.shields.io/twitter/follow/adetunji_oj?logo=twitter&style=for-the-badge" alt="adetunji_oj" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dev-adetunjio.netlify.app/](https://dev-adetunjio.netlify.app/)
+- 👨‍💻 All of my projects are available at [dev-adetunjio.netlify.app](https://dev-adetunjio.netlify.app/)
 
 - 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Nodejs**
 
