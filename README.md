@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Nodejs**
 
-- 📫 How to reach me **adetunjiojekunle@gmail.com**
+- 📫 How to reach me **ojekunleadetunji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
