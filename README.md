@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [dev-adetunjio.netlify.app](https://dev-adetunjio.netlify.app/)
 
-- 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Nodejs**
+- 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Typescript and NodejS**
 
 - 📫 How to reach me **ojekunleadetunji@gmail.com**
 
