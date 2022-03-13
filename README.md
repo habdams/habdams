@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adetunji Ojekunle</h1>
 <h3 align="center">A Frontend Developer and Digital Product Designer, based in Lagos, Nigeria</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&width=800&center=true&color=1FEEF7&background=FFFFFF00&lines=Hi+there!%2C+My+name+is+Adetunji+Ojekunle%2C+I+have+over+2+years+Product+development+experience.+I+am+a+Frontend+development+and+User+experience+enthusiast.;A+Digital+Product+School+and+Digital+Schmiede+Fellow)](https://git.io/typing-svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habdams&label=Profile%20views&color=0e75b6&style=flat" alt="habdams" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adetunji_oj" target="blank"><img src="https://img.shields.io/twitter/follow/adetunji_oj?logo=twitter&style=for-the-badge" alt="adetunji_oj" /></a> </p>
