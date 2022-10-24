@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [dev-adetunjio.netlify.app](https://dev-adetunjio.netlify.app/) -->
 
-- 💬 Ask me about **UI/UX Design, Javascript, ReactJS, Typescript and NodejS**
+- 💬 You will find me exploring **UI/UX Design, Javascript, ReactJS, Typescript and NodejS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
