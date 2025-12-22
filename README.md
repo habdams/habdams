@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Adetunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=habdams)](https://github.com/habdams/github-readme-stats)
+[![Adetunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=habdams)]
