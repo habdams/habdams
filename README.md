@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adetunji Ojekunle</h1>
-<h3 align="center">Frontend Engineer → Full-Stack (Go) | Backend-Focused Product Builder</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=habdams&label=Profile%20views&color=0e75b6&style=flat" alt="habdams" />
@@ -7,54 +7,22 @@
 
 ---
 
-### 👨🏽‍💻 About Me
+## 👨🏽‍💻 About Me  
+Frontend engineer specializing in **Vue.js, JavaScript, and TypeScript**, now expanding into **Rust**, **Solana**, and **Anchor** to build Web3-ready, high-performance applications. I combine strong UI engineering with growing systems understanding to deliver clean, maintainable, production-focused solutions.
 
-I’m a **frontend engineer transitioning into full-stack development**, with a growing focus on **backend systems, APIs, and product-driven engineering**.
+## 🔎 Current Focus  
+- Advanced frontend architecture (Vue.js + TS)  
+- Rust fundamentals, Solana program development, and Anchor  
+- Client–program interaction patterns in Web3  
+- Building practical products and internal tools
 
-- Strong frontend foundation, now going deeper into **backend architecture**
-- Currently building backend skills with **Golang** and **Ruby**
-- Interested in **clean APIs, maintainable systems, and real-world products**
-- I value clarity, correctness, and long-term code quality over quick hacks
+## 🛠 Core Skills  
+**Frontend:** Vue.js, JavaScript, TypeScript, modern UI patterns  
+**Web3 / Backend:** Rust, Solana, Anchor, API fundamentals  
+**Tooling:** Git/GitHub, Linux, VS Code  
 
----
-
-### 🧠 Current Focus
-
-- ⚙️ Backend development with **Golang** (performance, concurrency, systems thinking)
-- 🧩 Backend fundamentals with **Ruby** (OOP, frameworks, developer productivity)
-- 🌐 Full-stack applications using **Vue.js + Go / Ruby**
-- 🚀 Turning ideas into usable, production-ready products
-
----
-
-### 🛠 Tech Stack
-
-**Frontend**
-- JavaScript / TypeScript  
-- Vue.js  
-- HTML, CSS, modern UI patterns  
-
-**Backend**
-- Golang  
-- Ruby  
-- REST APIs  
-- Basic database design & backend architecture  
-
-**Tools & Workflow**
-- Git & GitHub  
-- VS Code  
-- Linux-based dev environments  
-
----
-
-### 📌 What I’m Working Toward
-
-- Becoming a **well-rounded backend-capable full-stack engineer**
-- Building systems beyond basic CRUD
-- Launching **indie products** and internal tools
-- Writing code that scales in **complexity**, not just traffic
-
----
+## 🎯 Goal  
+Positioning for **senior frontend roles** while developing strong cross-stack and Web3 engineering capabilities.
 
 ### 🤝 Connect With Me
 
